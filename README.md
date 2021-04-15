@@ -1,10 +1,10 @@
-# Our 64-Bit-OS-Kernel- 
-PRINTING STRING OF LETTERS ( NUST ) USING THIS :
 
 # ZAINAB GHAURI
 # CMS ID : 296357
-# CA0 - ASSIGNMENT 
+# CAO - ASSIGNMENT 
 
+# Our 64-Bit-OS-Kernel- 
+PRINTING STRING OF LETTERS ( NUST ) USING THIS :
 
 The Repository holds all the code neccesary for making an OS.
 

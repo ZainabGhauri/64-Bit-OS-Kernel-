@@ -30,4 +30,7 @@ You can emulate your operating system using Qemu: (Don't forget to add qemu to y
 qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso
 NOTE: When building your operating system, if changes to your code fail to compile, ensure your QEMU emulator has been closed, as this will block writing to kernel.iso.
 
+# For C and C++ libraries you will need to install
+ 1.minGW-w64
+ 2.Link : https://sourceforge.net/projects/mingw-w64/
 # The qemu screen will be displayed where the specified string is printed

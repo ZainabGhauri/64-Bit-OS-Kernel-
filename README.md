@@ -11,12 +11,12 @@
 The Repository holds all the code neccesary for making an OS.
 
 # Prerequisites
-1.A text editor such as VS Code.
-2.Docker for creating our build-environment. (( to simplify the building process and it will allow us to create a reproducible build env)
-3.Qemu for emulating our operating system.
-4.Remember to add Qemu to the path so that you can access it from your command-line. (Windows instructions here)
-5.Nasm Grub
-6.Mingw64 ( GCC Complier )
+1. A text editor such as VS Code.
+2. Docker for creating our build-environment. (( to simplify the building process and it will allow us to create a reproducible build env)
+3. Qemu for emulating our operating system.
+4. Remember to add Qemu to the path so that you can access it from your command-line. (Windows instructions here)
+5. Nasm Grub
+6. Mingw64 ( GCC Complier )
 
 # For Windows ( in my case )
 Enter build environment

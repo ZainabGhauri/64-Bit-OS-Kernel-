@@ -4,9 +4,9 @@
 # CAO - ASSIGNMENT 
 
 # Our 64-Bit-OS-Kernel- 
- Task 1 : CREATING YOUR OWN 64-BIT OPERATING SYSTEM
- Task 2 : PRINTING STRING OF LETTERS ( NUST ) USING THIS 
- Task 3 : Create a Static website ( HUGO )
+ * Task 1 : CREATING YOUR OWN 64-BIT OPERATING SYSTEM
+ * Task 2 : PRINTING STRING OF LETTERS ( NUST ) USING THIS 
+ * Task 3 : Create a Static website ( HUGO )
 -	We are making a 64 bit OS from the scratch . In this we will make x86 compatible os that is multi boot and then we later on expand to other architecture. This OS is primiarly written in a C and C++ programming language but we also used assembly language in some part of our code where we need hardware specific coding. 
 The Repository holds all the code neccesary for making an OS.
 
